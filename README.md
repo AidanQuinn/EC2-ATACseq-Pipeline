@@ -1,5 +1,5 @@
 # EC2-ATACseq-Pipeline
-Some scripts to efficiently run ATAC-seq jobs on AWS EC2 instances
+Some scripts to efficiently run ATAC-seq jobs on AWS EC2 instances. Largely based on [Harvard ATAC-seq Pipeline](https://informatics.fas.harvard.edu/atac-seq-guidelines.html)
 
 ## Dependencies
 1. Bowtie2
